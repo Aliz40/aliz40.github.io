@@ -3,9 +3,9 @@
     <header class="sticky bg-slate-50 bg-opacity-60 text-slate-900 inset-x-0 top-0 z-50">
       <nav class="mx-auto flex max-w-7xl items-center justify-between lg:px-8" aria-label="Global">
         <div class="flex lg:flex-1">
-          <a href="#" class="-m-1.5 p-4">
+          <a href="#" class="-m-1.5">
             <span class="sr-only">Unix</span>
-            <img class="h-14 w-auto" src="../assets/img/Unixue-logo.png" alt="unix-logo" />
+            <img class="h-20 w-auto" src="../assets/img/logo.png" alt="BeliKado-logo" />
           </a>
         </div>
         <div class="flex lg:hidden">
@@ -23,8 +23,8 @@
         <DialogPanel class="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
           <div class="flex items-center justify-between">
             <a href="#" class="-m-1.5 p-1.5">
-              <span class="sr-only">Unix</span>
-              <img class="h-8 w-auto" src="../assets/img/Unixue-logo.png" alt="unix-logo" />
+              <span class="sr-only">BeliKado</span>
+              <img class="h-8 w-auto" src="../assets/img/logo.png" alt="BeliKado-logo" />
             </a>
             <button type="button" class="-m-2.5 rounded-md p-2.5 text-gray-700" @click="mobileMenuOpen = false">
               <span class="sr-only">Close menu</span>
